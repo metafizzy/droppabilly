@@ -1,0 +1,24 @@
+{
+  "name": "droppabilly",
+  "version": "0.0.0",
+  "description": "Drag and drop",
+  "main": "droppabilly.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/metafizzy/droppabilly.git"
+  },
+  "keywords": [
+    "drag",
+    "drop",
+    "draggabilly",
+    "dom"
+  ],
+  "author": "David DeSandro",
+  "bugs": {
+    "url": "https://github.com/metafizzy/droppabilly/issues"
+  },
+  "homepage": "https://github.com/metafizzy/droppabilly"
+}

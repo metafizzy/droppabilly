@@ -1,0 +1,21 @@
+{
+  "name": "droppabilly",
+  "main": "droppabilly.js",
+  "version": "0.0.0",
+  "authors": [
+    "David DeSandro <desandrocodes@gmail.com>"
+  ],
+  "description": "Drag and drop",
+  "keywords": [
+    "drag",
+    "drop",
+    "draggabilly"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
